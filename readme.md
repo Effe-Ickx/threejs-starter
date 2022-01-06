@@ -1,6 +1,19 @@
 # Three.js Starter
+
+A three.js freely inspired from
+- https://github.com/designcourse/threejs-webpack-starter
+- https://github.com/GrantBartlett/three-typescript-webpack-starter
+- https://github.com/edwinwebb/three-seed
+
+
+three.js 0.136.0 
+TypeScript 4.5.4 
+WebPack 5.65.0 
+
+
+## Demo
+https://effe-ickx.github.io/threejs-starter
 ## Setup
-Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
 ``` bash
