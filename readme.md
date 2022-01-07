@@ -12,7 +12,7 @@ WebPack 5.65.0
 
 
 ## Demo
-https://effe-ickx.github.io/threejs-starter
+https://effe-ickx.github.io/threejs-starter/dist/
 ## Setup
 Run this followed commands:
 
