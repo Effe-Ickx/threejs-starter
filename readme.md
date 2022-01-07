@@ -1,14 +1,14 @@
 # Three.js Starter
 
-A three.js freely inspired from
+A three.js starter template freely inspired from:
 - https://github.com/designcourse/threejs-webpack-starter
 - https://github.com/GrantBartlett/three-typescript-webpack-starter
 - https://github.com/edwinwebb/three-seed
 
-
-three.js 0.136.0 
-TypeScript 4.5.4 
-WebPack 5.65.0 
+Based on:
+- three.js v0.136.0 
+- TypeScript v4.5.4 
+- WebPack v5.65.0 
 
 
 ## Demo
